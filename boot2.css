@@ -1,0 +1,27 @@
+.d1{
+/*	background-color: black;*/
+	height: 305px;
+	width: 500px;
+	outline: 10px solid rosybrown;
+	margin: 100px;
+}
+#d2{
+	background-color: skyblue;
+	height: 100px;
+	margin: 1px;
+}
+#d3{
+	background-color: #fcea5d;
+	height: 100px;
+	margin: 1px;
+}
+#d4{
+	background-color: pink;
+	height: 100px;
+	margin: 1px;
+}
+#d5{
+	background-color: lightgreen;
+	height: 100px;
+	margin: 1px;
+}
